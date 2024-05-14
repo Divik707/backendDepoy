@@ -1,0 +1,17 @@
+{
+  "name": "file",
+  "version": "1.0.0",
+  "description": "Making of a simple backend ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "index"
+  ],
+  "author": "Divik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
