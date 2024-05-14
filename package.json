@@ -1,0 +1,15 @@
+{
+  "name": "webdev",
+  "version": "1.0.0",
+  "description": "a basic code to depoy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "divik",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
